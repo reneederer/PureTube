@@ -67,3 +67,23 @@
 
   window.addEventListener('yt-navigate-finish', updateCSS, true);
 })();
+
+
+
+// ==UserScript==
+// @name         PureTube1
+// @description  PureTube1
+// @summary      Removes searchbar, comments, recommendations, shorts from youtube
+// @description  Break youtube addiction
+// @version      1.2
+// @run-at       document-start
+// @grant        none
+// @updateURL https://raw.githubusercontent.com/reneederer/TampermonkeyScripts/master/PureTube.js
+// @downloadURL https://raw.githubusercontent.com/reneederer/TampermonkeyScripts/master/PureTube.js
+// @match        *://*.google.com/*
+// @match        *://*.google.de/*
+// ==/UserScript==
+
+(function () {
+    alert('asdfjio')
+})();
