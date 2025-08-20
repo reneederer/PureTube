@@ -1,6 +1,5 @@
 // ==UserScript==
 // @name         PureTube
-// @description  Removes searchbar, comments, recommendations, shorts from youtube
 // @summary      Removes searchbar, comments, recommendations, shorts from youtube
 // @description  Break youtube addiction
 // @version      1.2
