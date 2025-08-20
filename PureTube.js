@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         PureTube
 // @description  Break youtube addiction: removes searchbar, comments, recommendations, shorts from youtube
-// @version      1.2
+// @version      1.2.2
 // @run-at       document-start
 // @grant        none
 // @updateURL    https://raw.githubusercontent.com/reneederer/PureTube/refs/heads/master/PureTube.js
@@ -66,16 +66,3 @@
   window.addEventListener('yt-navigate-finish', updateCSS, true);
 })();
 
-// ==UserScript==
-// @name         PureTube1
-// @description  Break youtube addiction: removes searchbar, comments, recommendations, shorts from youtube
-// @version      1.2
-// @run-at       document-start
-// @grant        none
-// @match        *://*.google.com/*
-// @match        *://*.google.de/*
-// ==/UserScript==
-
-(function () {
-    alert('x')
-}());
