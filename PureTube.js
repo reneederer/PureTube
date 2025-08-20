@@ -6,8 +6,8 @@
 // @version      1.2
 // @run-at       document-start
 // @grant        none
-// @updateURL https://raw.githubusercontent.com/reneederer/TampermonkeyScripts/master/PureTube.js
-// @downloadURL https://raw.githubusercontent.com/reneederer/TampermonkeyScripts/master/PureTube.js
+// @updateURL    https://raw.githubusercontent.com/reneederer/PureTube/refs/heads/master/PureTube.js
+// @downloadURL  https://raw.githubusercontent.com/reneederer/PureTube/refs/heads/master/PureTube.js
 // @match        *://*.youtube.com/*
 // @match        *://*.youtube.de/*
 // ==/UserScript==
