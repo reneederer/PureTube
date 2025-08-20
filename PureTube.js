@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         PureTube
-// @summary      Removes searchbar, comments, recommendations, shorts from youtube
 // @description  Break youtube addiction
+// @summary      Removes searchbar, comments, recommendations, shorts from youtube
 // @version      1.2
 // @run-at       document-start
 // @grant        none
@@ -71,14 +71,11 @@
 
 // ==UserScript==
 // @name         PureTube1
-// @description  PureTube1
+// @description  PureTube123
 // @summary      Removes searchbar, comments, recommendations, shorts from youtube
-// @description  Break youtube addiction
 // @version      1.2
 // @run-at       document-start
 // @grant        none
-// @updateURL https://raw.githubusercontent.com/reneederer/TampermonkeyScripts/master/PureTube.js
-// @downloadURL https://raw.githubusercontent.com/reneederer/TampermonkeyScripts/master/PureTube.js
 // @match        *://*.google.com/*
 // @match        *://*.google.de/*
 // ==/UserScript==
